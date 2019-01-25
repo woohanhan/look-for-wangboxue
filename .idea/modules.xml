@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javanewfeature/javanewfeature.iml" filepath="$PROJECT_DIR$/javanewfeature/javanewfeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leecode/leecode.iml" filepath="$PROJECT_DIR$/leecode/leecode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/look-for-wangboxue.iml" filepath="$PROJECT_DIR$/.idea/look-for-wangboxue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visage/visage.iml" filepath="$PROJECT_DIR$/visage/visage.iml" />
     </modules>
   </component>
 </project>

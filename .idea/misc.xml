@@ -7,6 +7,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/javanewfeature/pom.xml" />
+        <option value="$PROJECT_DIR$/visage/pom.xml" />
+        <option value="$PROJECT_DIR$/leecode/pom.xml" />
       </list>
     </option>
   </component>

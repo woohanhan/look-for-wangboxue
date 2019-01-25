@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javanewfeature" />
+        <module name="leecode" />
+        <module name="visage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="javanewfeature" target="1.8" />
+      <module name="leecode" target="1.7" />
+      <module name="visage" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
